@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254920272428",
+    "firebase_url": "https://qstutorials-b9b3d.firebaseio.com",
+    "project_id": "qstutorials-b9b3d",
+    "storage_bucket": "qstutorials-b9b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254920272428:android:abb58ab790b462c8",
+        "android_client_info": {
+          "package_name": "com.mobi.efficacious.TraffordSchool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254920272428-jjdnn52lfufrjeiiqdppfc2kjfooklhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobi.efficacious.TraffordSchool",
+            "certificate_hash": "06324932fd2ae527bf83928fbbaffbf3e54e7230"
+          }
+        },
+        {
+          "client_id": "254920272428-od2dgqjogsag9dp63ldjd25ligf5qjsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfFc1UFwk7QuHXs0AsiikKxWYR0QmPds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254920272428-od2dgqjogsag9dp63ldjd25ligf5qjsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
